@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Receivers >
+      <Receiver>
+        <Name>ChildSiteInitWebProvisioned</Name>
+        <Type>WebProvisioned</Type>
+        <Assembly>Branding101, Version=1.0.0.0, Culture=neutral, PublicKeyToken=8fb9473257bd5171</Assembly>
+        <Class>Branding101.ChildSiteInit.ChildSiteInit</Class>
+        <SequenceNumber>10000</SequenceNumber>
+      </Receiver>
+
+  </Receivers>
+</Elements>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Receivers  ListUrl="Lists\Students">
+    <Receiver>
+      <Name>StopItemDeleteItemDeleting</Name>
+      <Type>ItemDeleting</Type>
+      <Assembly>EventHandler.StopDeletion, Version=1.0.0.0, Culture=neutral, PublicKeyToken=bda09af1079026e0</Assembly>
+      <Class>EventHandler.StopDeletion.StopItemDelete.StopItemDelete</Class>
+      <SequenceNumber>10000</SequenceNumber>
+    </Receiver>
+    <Receiver>
+      <Name>StopItemDeleteItemAdded</Name>
+      <Type>ItemAdded</Type>
+      <Assembly>EventHandler.StopDeletion, Version=1.0.0.0, Culture=neutral, PublicKeyToken=bda09af1079026e0</Assembly>
+      <Class>EventHandler.StopDeletion.StopItemDelete.StopItemDelete</Class>
+      <SequenceNumber>1000</SequenceNumber>
+    </Receiver>
+    <Receiver>
+      <Name>StopItemDeleteItemUpdating</Name>
+      <Type>ItemUpdating</Type>
+      <Assembly>EventHandler.StopDeletion, Version=1.0.0.0, Culture=neutral, PublicKeyToken=bda09af1079026e0</Assembly>
+      <Class>EventHandler.StopDeletion.StopItemDelete.StopItemDelete</Class>
+      <SequenceNumber>1000</SequenceNumber>
+    </Receiver>
+    <Receiver>
+      <Name>StopItemDeleteItemUpdated</Name>
+      <Type>ItemUpdated</Type>
+      <Assembly>EventHandler.StopDeletion, Version=1.0.0.0, Culture=neutral, PublicKeyToken=bda09af1079026e0</Assembly>
+      <Class>EventHandler.StopDeletion.StopItemDelete.StopItemDelete</Class>
+      <SequenceNumber>1000</SequenceNumber>
+    </Receiver>
+  </Receivers>
+</Elements>

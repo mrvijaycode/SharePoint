@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="d02b3180-76c6-4b88-8ae3-4895cd52f606" Scope="Web" Title="EventHandler.StopDeletion Feature1">
+  <ElementManifests>
+    <ElementManifest Location="StopItemDelete\Elements.xml" />
+  </ElementManifests>
+</Feature>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="e902a34a-53ea-4c47-8158-38fafbd423d2" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="ListInstance.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="ListInstance_EmpListDefinition\Feature.xml" />
+  </FeatureManifests>
+</Solution>

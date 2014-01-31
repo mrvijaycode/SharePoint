@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="ad32e6f1-b139-4e14-bbdb-c5a3047d2bf4" Scope="Site" Title="EmplistDefinition">
+  <ElementManifests>
+    <ElementManifest Location="ListInstance1\Elements.xml" />
+    <ElementManifest Location="EmployeeCustomDefinition\Elements.xml" />
+    <ElementFile Location="EmployeeCustomDefinition\Schema.xml" />
+  </ElementManifests>
+</Feature>

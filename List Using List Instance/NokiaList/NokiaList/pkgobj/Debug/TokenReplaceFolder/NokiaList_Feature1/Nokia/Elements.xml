@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <ListInstance Title="Students"
+                OnQuickLaunch="TRUE"
+                TemplateType="100"
+                FeatureId="00bfea71-de22-43b2-a848-c05709900100"
+                Url="Lists/NokiaList"
+                Description="Tesing after successfully created.."
+                CustomSchema="Nokia\Schema.xml">
+
+    <Data>
+      <Rows>
+        <Row>
+          <Field Name='ContentTypeId'>0x0100F2EA38EAE775E1459209CDE0860C2657</Field>
+          <Field Name='Title'>Suresh</Field>
+          <Field Name='Subject'>Science</Field>
+          <Field Name='Marks'>67.0000000000000</Field>
+          <Field Name='ID'>1</Field>
+        </Row>
+      </Rows>
+    </Data>
+
+  </ListInstance>  
+</Elements>

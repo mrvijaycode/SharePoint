@@ -1,0 +1,30 @@
+﻿body.v4master {
+  width: 100%;
+  background-image: url('Images/Background.jpg');
+  background-repeat: repeat;
+  padding-top: 42px;
+}
+
+
+#pageBody{
+  margin: 0px auto;
+  border-left: solid black 3px;
+  border-right: solid black 3px;
+  max-width: 920px;
+  min-height: 900px;
+  background-color: White;
+}
+
+
+body #s4-ribbonrow {
+ max-width: 920px !important;
+}
+
+
+body #s4-workspace {
+  max-width: 920px !important;
+  background-color: white;
+  min-height: 540px;
+  left: auto;
+}
+

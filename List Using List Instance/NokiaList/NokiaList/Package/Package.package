@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="3d298118-fb33-4f36-b8b6-b9991f7b1e9c" solutionId="3d298118-fb33-4f36-b8b6-b9991f7b1e9c" resetWebServer="false" name="NokiaList" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="6f217944-7c1a-454c-ac8c-720c5c1aa345" />
+  </features>
+</package>

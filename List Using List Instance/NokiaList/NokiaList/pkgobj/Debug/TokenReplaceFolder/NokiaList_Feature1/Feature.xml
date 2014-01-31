@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="71a5b196-ec2c-4610-a23a-005074b54a49" Scope="Site" Title="NokiaList Feature1">
+  <ElementManifests>
+    <ElementManifest Location="Nokia\Elements.xml" />
+    <ElementFile Location="Nokia\Schema.xml" />
+  </ElementManifests>
+</Feature>

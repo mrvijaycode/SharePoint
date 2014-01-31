@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\EventHandler.StopDeletion\EventHandler.StopDeletion\bin\Debug\EventHandler.StopDeletion.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\EventHandler.StopDeletion\EventHandler.StopDeletion\bin\Debug\EventHandler.StopDeletion.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\EventHandler.StopDeletion\EventHandler.StopDeletion\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\EventHandler.StopDeletion\EventHandler.StopDeletion\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\EventHandler.StopDeletion\EventHandler.StopDeletion\obj\Debug\EventHandler.StopDeletion.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\EventHandler.StopDeletion\EventHandler.StopDeletion\obj\Debug\EventHandler.StopDeletion.pdb

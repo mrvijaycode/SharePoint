@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" Id="5c0925e5-66df-43ad-b04c-8e6f77a1e80e" solutionId="5c0925e5-66df-43ad-b04c-8e6f77a1e80e" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" name="ComputerConfigurationExample">
+    <features>
+        <featureReference  itemId="ac706091-3cec-4405-ad24-9d0253f0f813" />
+    </features>
+</package>

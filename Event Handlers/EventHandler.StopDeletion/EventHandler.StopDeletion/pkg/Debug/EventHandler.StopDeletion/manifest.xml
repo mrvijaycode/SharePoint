@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="d16a1779-8c5b-4d37-9f8c-961aefc2551d" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="EventHandler.StopDeletion.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="EventHandler.StopDeletion_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

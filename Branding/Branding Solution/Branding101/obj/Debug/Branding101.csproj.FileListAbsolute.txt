@@ -1,0 +1,5 @@
+C:\DevProjects\Branding101\Branding101\bin\Debug\Branding101.dll
+C:\DevProjects\Branding101\Branding101\bin\Debug\Branding101.pdb
+C:\DevProjects\Branding101\Branding101\obj\Debug\ResolveAssemblyReference.cache
+C:\DevProjects\Branding101\Branding101\obj\Debug\Branding101.dll
+C:\DevProjects\Branding101\Branding101\obj\Debug\Branding101.pdb

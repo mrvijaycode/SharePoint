@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="d16a1779-8c5b-4d37-9f8c-961aefc2551d" solutionId="d16a1779-8c5b-4d37-9f8c-961aefc2551d" resetWebServer="false" name="EventHandler.StopDeletion" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="b9d8e818-da65-4fcc-a56a-4d8d8d04f4bc" />
+  </features>
+</package>

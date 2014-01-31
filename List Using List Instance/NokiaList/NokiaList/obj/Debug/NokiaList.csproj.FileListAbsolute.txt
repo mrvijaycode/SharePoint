@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NokiaList\NokiaList\bin\Debug\NokiaList.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NokiaList\NokiaList\bin\Debug\NokiaList.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NokiaList\NokiaList\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NokiaList\NokiaList\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NokiaList\NokiaList\obj\Debug\NokiaList.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NokiaList\NokiaList\obj\Debug\NokiaList.pdb

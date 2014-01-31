@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="3d298118-fb33-4f36-b8b6-b9991f7b1e9c" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="NokiaList.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="NokiaList_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

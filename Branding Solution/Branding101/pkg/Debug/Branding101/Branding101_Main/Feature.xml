@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="A sample feature to demonstrate best-practice branding techniques for sandboxed solutions" Id="112a7c07-dbae-457f-bcbc-973866f2fd92" ReceiverAssembly="Branding101, Version=1.0.0.0, Culture=neutral, PublicKeyToken=8fb9473257bd5171" ReceiverClass="Branding101.Features.Main.MainEventReceiver" Scope="Site" Title="Branding 101">
+  <ElementManifests>
+    <ElementManifest Location="MasterPageGallery\Elements.xml" />
+    <ElementFile Location="MasterPageGallery\Branding101.master" />
+    <ElementManifest Location="Style Library\Elements.xml" />
+    <ElementFile Location="Style Library\Branding101\styles.css" />
+    <ElementFile Location="Style Library\Branding101\Images\Background.jpg" />
+    <ElementFile Location="Style Library\Branding101\Images\Logo.gif" />
+    <ElementFile Location="Style Library\Branding101\Images\vijaybg.png" />
+    <ElementFile Location="Style Library\Branding101\Images\logo.png" />
+    <ElementManifest Location="ChildSiteInit\Elements.xml" />
+  </ElementManifests>
+</Feature>

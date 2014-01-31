@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <ContentType ID="0x0100736C62A68F6A408E8D0800B14AF43E0E" Name="Colors" Group="Custom CT" Description="Color content type">
+    <FieldRefs>
+      <FieldRef ID="{168076D8-500B-4572-B2FA-9CC9C4664F4C}"/>
+      <FieldRef ID="{A97BDC8C-8723-455E-818C-56CE8D63BE19}"/>
+    </FieldRefs>
+  </ContentType>
+    <!-- Do not change the value of the Name attribute below. If it does not match the folder name of the List Definition project item, an error will occur when the project is run. -->
+  <Field ID="{168076D8-500B-4572-B2FA-9CC9C4664F4C}" Type="Text" Name="EmpName" DisplayName="EmpName" Required="TRUE" Sealed="TRUE"/>
+  <Field ID="{A97BDC8C-8723-455E-818C-56CE8D63BE19}" Type="Text" Name="EmpID" DisplayName="EMPID" Required="TRUE" Sealed="TRUE"/>
+
+  <ListTemplate
+        Name="EmployeeCustomDefinition"
+        Type="10050"
+        BaseType="0"
+        OnQuickLaunch="TRUE"
+        SecurityBits="11"
+        Sequence="410"
+         DisallowContentTypes="False" 
+        DisplayName="Employee"
+        Description="EmployeeList"
+       
+        Image="/_layouts/images/itgen.png"/>
+</Elements>

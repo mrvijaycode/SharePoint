@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Style Library">
+    <File Path="Style Library\Branding101\styles.css" Url="Style Library/Branding101/styles.css" />
+    <File Path="Style Library\Branding101\Images\vijaybg.png" Url="Style Library/Branding101/Images/vijaybg.png" />
+    <File Path="Style Library\Branding101\Images\logo.png" Url="Style Library/Branding101/Images/logo.png" />
+  </Module>
+</Elements>
