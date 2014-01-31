@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="177e7358-2721-437f-b22c-aa468daa7f7a" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="OpenJobs.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="OpenJobs_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

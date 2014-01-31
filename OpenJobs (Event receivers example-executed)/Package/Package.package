@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" Id="177e7358-2721-437f-b22c-aa468daa7f7a" solutionId="177e7358-2721-437f-b22c-aa468daa7f7a" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" name="OpenJobs">
+    <features>
+        <featureReference itemId="87542d66-a34d-482d-94dd-e74f46e32b19" />
+    </features>
+</package>
