@@ -1,0 +1,6 @@
+D:\Repository\4Sync\Code\SPEx\SPEx\bin\Debug\SPEx.exe.config
+D:\Repository\4Sync\Code\SPEx\SPEx\bin\Debug\SPEx.exe
+D:\Repository\4Sync\Code\SPEx\SPEx\bin\Debug\SPEx.pdb
+D:\Repository\4Sync\Code\SPEx\SPEx\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Repository\4Sync\Code\SPEx\SPEx\obj\x86\Debug\SPEx.exe
+D:\Repository\4Sync\Code\SPEx\SPEx\obj\x86\Debug\SPEx.pdb

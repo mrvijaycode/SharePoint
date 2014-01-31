@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="3afd224c-6dae-4c16-ab02-804075913dd1" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="AreaClaculator.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="AreaClaculator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=76dfb6131cdce2a4" Namespace="AreaClaculator.AreaCalc" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="AreaClaculator_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

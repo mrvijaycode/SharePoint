@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="c9939726-cda0-4c0a-8644-2a18ef45fd05" solutionId="c9939726-cda0-4c0a-8644-2a18ef45fd05" resetWebServer="false" name="RibbonButtonEx" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="e0382e1a-a821-4b8e-b77e-0fba1263656a" />
+  </features>
+</package>

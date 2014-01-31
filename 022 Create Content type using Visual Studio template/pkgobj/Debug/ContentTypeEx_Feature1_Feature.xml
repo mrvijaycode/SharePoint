@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="My Content Type Feature" Id="1c34a1a5-a9e9-4568-a404-6573bfedc0c1" Scope="Web" Title="ContentTypeEx Feature1">
+  <Properties>
+    <Property Key="GloballyAvailable" Value="true" />
+  </Properties>
+  <ElementManifests>
+    <ElementManifest Location="ContentType1\Elements.xml" />
+  </ElementManifests>
+</Feature>

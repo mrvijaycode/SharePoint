@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <!-- Parent ContentType: Document (0x0101) -->
+  <Field ID="{2DADBB1E-7DC3-4570-B952-4152DB5F135B}" Name="ReviewStatus" DisplayName ="Review Status" Type="Choice">
+    <CHOICES>
+      <CHOICE>Review Required</CHOICE>
+      <CHOICE>Review in progress</CHOICE>
+      <CHOICE>Review Completed</CHOICE>
+    </CHOICES>    
+  </Field>
+  
+  <ContentType ID="0x01010033eaf9f2b85549cebdbd1e8ea388bc76"
+               Name="ContentTypeEx - ContentType1"
+               Group="Custom Content Types"
+               Description="My Content Type"
+               Inherits="TRUE"
+               Version="0">
+  
+    
+    <FieldRefs>
+      <FieldRef ID ="{0C7F521A-29D9-46E9-BCB3-383E67089CD6}" Name ="ReviewStatus" DisplayName ="Review Status"/>
+    </FieldRefs>
+    
+  </ContentType>
+</Elements>

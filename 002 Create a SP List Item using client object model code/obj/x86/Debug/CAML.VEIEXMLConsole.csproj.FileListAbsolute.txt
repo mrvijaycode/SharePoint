@@ -1,0 +1,5 @@
+D:\Repository\4Sync\Code\CAML.VEIEXMLConsole\bin\Debug\CAML.VEIEXMLConsole.exe
+D:\Repository\4Sync\Code\CAML.VEIEXMLConsole\bin\Debug\CAML.VEIEXMLConsole.pdb
+D:\Repository\4Sync\Code\CAML.VEIEXMLConsole\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Repository\4Sync\Code\CAML.VEIEXMLConsole\obj\x86\Debug\CAML.VEIEXMLConsole.exe
+D:\Repository\4Sync\Code\CAML.VEIEXMLConsole\obj\x86\Debug\CAML.VEIEXMLConsole.pdb

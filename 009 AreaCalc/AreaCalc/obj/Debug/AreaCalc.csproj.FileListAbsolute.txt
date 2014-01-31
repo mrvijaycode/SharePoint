@@ -1,0 +1,6 @@
+D:\Repository\4Sync\Code\AreaCalc\AreaCalc\bin\Debug\AreaCalc.dll
+D:\Repository\4Sync\Code\AreaCalc\AreaCalc\bin\Debug\AreaCalc.pdb
+D:\Repository\4Sync\Code\AreaCalc\AreaCalc\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+D:\Repository\4Sync\Code\AreaCalc\AreaCalc\obj\Debug\ResolveAssemblyReference.cache
+D:\Repository\4Sync\Code\AreaCalc\AreaCalc\obj\Debug\AreaCalc.dll
+D:\Repository\4Sync\Code\AreaCalc\AreaCalc\obj\Debug\AreaCalc.pdb

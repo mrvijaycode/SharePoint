@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="myModule">
+    <File Path="Mydocs\Sample.txt" Url="myModule\Sample.txt" Type="GhostableInLibrary" />
+  </Module>
+</Elements>

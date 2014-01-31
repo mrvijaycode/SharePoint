@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="9bf68f4d-2fb3-4d6c-8308-acd4b0de5720" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="AreaCalc.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+</Solution>

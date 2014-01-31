@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="98e91c8b-cb72-4005-ba8a-6cc55434f574" Scope="Site" Title="AreaClaculator Feature1">
+  <ElementManifests>
+    <ElementManifest Location="AreaCalc\Elements.xml" />
+    <ElementFile Location="AreaCalc\AreaCalc.webpart" />
+  </ElementManifests>
+</Feature>

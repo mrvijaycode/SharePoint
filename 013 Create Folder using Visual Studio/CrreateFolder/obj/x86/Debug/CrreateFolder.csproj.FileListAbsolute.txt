@@ -1,0 +1,7 @@
+D:\Repository\4Sync\Code\CrreateFolder\CrreateFolder\bin\Debug\CrreateFolder.exe
+D:\Repository\4Sync\Code\CrreateFolder\CrreateFolder\bin\Debug\CrreateFolder.pdb
+D:\Repository\4Sync\Code\CrreateFolder\CrreateFolder\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Repository\4Sync\Code\CrreateFolder\CrreateFolder\obj\x86\Debug\CrreateFolder.exe
+D:\Repository\4Sync\Code\CrreateFolder\CrreateFolder\obj\x86\Debug\CrreateFolder.pdb
+D:\Repository\4Sync\Code\CreateFolder\CrreateFolder\obj\x86\Debug\CrreateFolder.exe
+D:\Repository\4Sync\Code\CreateFolder\CrreateFolder\obj\x86\Debug\CrreateFolder.pdb

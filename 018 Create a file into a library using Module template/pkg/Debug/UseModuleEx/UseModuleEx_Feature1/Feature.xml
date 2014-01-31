@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="615a604a-28b4-4146-84f8-bb3d0bed58c2" Scope="Web" Title="UseModuleEx Feature1">
+  <ElementManifests>
+    <ElementManifest Location="myModule\Elements.xml" />
+    <ElementFile Location="myModule\Sample.txt" />
+  </ElementManifests>
+</Feature>

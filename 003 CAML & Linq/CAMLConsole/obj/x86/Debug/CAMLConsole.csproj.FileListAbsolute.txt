@@ -1,0 +1,7 @@
+c:\users\user13\documents\visual studio 2010\Projects\CAMLConsole\CAMLConsole\bin\Debug\CAMLConsole.exe
+c:\users\user13\documents\visual studio 2010\Projects\CAMLConsole\CAMLConsole\bin\Debug\CAMLConsole.pdb
+c:\users\user13\documents\visual studio 2010\Projects\CAMLConsole\CAMLConsole\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\user13\documents\visual studio 2010\Projects\CAMLConsole\CAMLConsole\obj\x86\Debug\CAMLConsole.exe
+c:\users\user13\documents\visual studio 2010\Projects\CAMLConsole\CAMLConsole\obj\x86\Debug\CAMLConsole.pdb
+D:\Repository\4Sync\Code\CAMLConsole\CAMLConsole\obj\x86\Debug\CAMLConsole.exe
+D:\Repository\4Sync\Code\CAMLConsole\CAMLConsole\obj\x86\Debug\CAMLConsole.pdb

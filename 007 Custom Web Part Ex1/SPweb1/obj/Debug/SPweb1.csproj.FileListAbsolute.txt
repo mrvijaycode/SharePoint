@@ -1,0 +1,5 @@
+D:\Repository\4Sync\Code\SPweb1\SPweb1\bin\Debug\SPweb1.dll
+D:\Repository\4Sync\Code\SPweb1\SPweb1\bin\Debug\SPweb1.pdb
+D:\Repository\4Sync\Code\SPweb1\SPweb1\obj\Debug\ResolveAssemblyReference.cache
+D:\Repository\4Sync\Code\SPweb1\SPweb1\obj\Debug\SPweb1.dll
+D:\Repository\4Sync\Code\SPweb1\SPweb1\obj\Debug\SPweb1.pdb

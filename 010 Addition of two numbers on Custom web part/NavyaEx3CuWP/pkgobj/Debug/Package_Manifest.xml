@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="cbcd233d-150a-4d46-a0c3-6c82c503e649" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="NavyaEx3CuWP.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="NavyaEx3CuWP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=653f5dc5b873f0ee" Namespace="NavyaEx3CuWP.CustomNavyaWPEx" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="NavyaEx3CuWP_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

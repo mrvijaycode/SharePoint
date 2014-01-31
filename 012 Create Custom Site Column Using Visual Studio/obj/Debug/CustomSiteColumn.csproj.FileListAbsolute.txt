@@ -1,0 +1,6 @@
+D:\Repository\4Sync\Code\CustomSiteColumn\bin\Debug\CustomSiteColumn.dll
+D:\Repository\4Sync\Code\CustomSiteColumn\bin\Debug\CustomSiteColumn.pdb
+D:\Repository\4Sync\Code\CustomSiteColumn\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+D:\Repository\4Sync\Code\CustomSiteColumn\obj\Debug\ResolveAssemblyReference.cache
+D:\Repository\4Sync\Code\CustomSiteColumn\obj\Debug\CustomSiteColumn.dll
+D:\Repository\4Sync\Code\CustomSiteColumn\obj\Debug\CustomSiteColumn.pdb

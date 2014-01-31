@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="c9939726-cda0-4c0a-8644-2a18ef45fd05" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="RibbonButtonEx.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="RibbonButtonEx_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

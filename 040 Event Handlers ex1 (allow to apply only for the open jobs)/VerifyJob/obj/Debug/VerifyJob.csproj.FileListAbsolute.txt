@@ -1,0 +1,5 @@
+c:\temp\VerifyJob\VerifyJob\bin\Debug\VerifyJob.dll
+c:\temp\VerifyJob\VerifyJob\bin\Debug\VerifyJob.pdb
+c:\temp\VerifyJob\VerifyJob\obj\Debug\ResolveAssemblyReference.cache
+c:\temp\VerifyJob\VerifyJob\obj\Debug\VerifyJob.dll
+c:\temp\VerifyJob\VerifyJob\obj\Debug\VerifyJob.pdb

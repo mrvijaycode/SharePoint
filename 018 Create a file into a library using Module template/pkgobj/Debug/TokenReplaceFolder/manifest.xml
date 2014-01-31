@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="a3cc5558-a61e-4d8c-9474-5dc665224e1f" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="UseModuleEx.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="UseModuleEx_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="5e13c07c-7e2f-40f0-aa36-1fab8c985ae3" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="ConnectWP.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="ConnectWP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=007c98c7a5b4375b" Namespace="ConnectWP.StringProvider" TypeName="*" />
+        <SafeControl Assembly="ConnectWP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=007c98c7a5b4375b" Namespace="ConnectWP.StringConsumer" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="ConnectWP_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Field ID="{8997DE45-0D4F-4672-95EE-2DE740C25305}" 
+         Type="Choice" AllowDeletion="FALSE" Description="A Simple site column" 
+             FillInChoice="FALSE"
+             Name="myChoice"
+             DisplayName="demoChoice"
+             Group="Vertex">
+             <CHOICES>
+               <CHOICE>INDIA</CHOICE>
+               <CHOICE>US</CHOICE>
+               <CHOICE>UK</CHOICE>
+               <CHOICE>GERMAN</CHOICE>
+               <CHOICE>JAPAN</CHOICE>
+               <CHOICE>CHINA</CHOICE>
+             </CHOICES>
+   </Field>
+</Elements>

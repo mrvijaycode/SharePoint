@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="5e13c07c-7e2f-40f0-aa36-1fab8c985ae3" solutionId="5e13c07c-7e2f-40f0-aa36-1fab8c985ae3" resetWebServer="false" name="ConnectWP" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="54117b24-3706-4cd2-b261-e90410caccc2" />
+  </features>
+</package>

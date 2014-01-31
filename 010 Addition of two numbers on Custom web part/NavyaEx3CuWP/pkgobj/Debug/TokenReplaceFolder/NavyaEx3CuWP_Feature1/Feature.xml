@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="5c30fe90-7359-490c-85bc-a1e63d241856" Scope="Site" Title="NavyaEx3CuWP Feature1">
+  <ElementManifests>
+    <ElementManifest Location="CustomNavyaWPEx\Elements.xml" />
+    <ElementFile Location="CustomNavyaWPEx\CustomNavyaWPEx.webpart" />
+  </ElementManifests>
+</Feature>

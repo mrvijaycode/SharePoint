@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="cbcd233d-150a-4d46-a0c3-6c82c503e649" solutionId="cbcd233d-150a-4d46-a0c3-6c82c503e649" resetWebServer="false" name="NavyaEx3CuWP" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="21cbc029-dc0e-4c5e-941b-5b6d6a942c7e" />
+  </features>
+</package>

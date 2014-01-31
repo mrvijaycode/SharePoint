@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/" Id ="{750DD6E6-E4F9-4267-9272-3DDD34CAEBD6}">
+  <CustomAction id="Demo_CustomButton" RegistrationType="List" RegistrationId="101" Location="CommandUI.Ribbon">
+    <CommandUIExtension>
+      <CommandUIDefinitions>
+        <CommandUIDefinition Location="Ribbon.Documents.New.Controls._children">
+          <Button Id="Ribbon.Documents.New.Controls.Demo_CustomButton"
+                  Alt="Demo_CustomButton"            
+                  Sequence="10"
+                  Image32by32="/_layouts/images/PPEOPLE.GIF"
+                  Command="Demo_CustomButton"
+                  LabelText="My Custom Button"
+                  TemplateAlias="o2"/>
+        </CommandUIDefinition>
+      </CommandUIDefinitions>
+    </CommandUIExtension>    
+  </CustomAction>
+</Elements>

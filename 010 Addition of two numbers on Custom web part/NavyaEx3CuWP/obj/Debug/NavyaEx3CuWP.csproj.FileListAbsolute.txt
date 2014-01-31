@@ -1,0 +1,6 @@
+c:\users\user13\documents\visual studio 2010\Projects\NavyaEx3CuWP\NavyaEx3CuWP\obj\Debug\ResolveAssemblyReference.cache
+c:\users\user13\documents\visual studio 2010\Projects\NavyaEx3CuWP\NavyaEx3CuWP\bin\Debug\NavyaEx3CuWP.dll
+c:\users\user13\documents\visual studio 2010\Projects\NavyaEx3CuWP\NavyaEx3CuWP\bin\Debug\NavyaEx3CuWP.pdb
+c:\users\user13\documents\visual studio 2010\Projects\NavyaEx3CuWP\NavyaEx3CuWP\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+c:\users\user13\documents\visual studio 2010\Projects\NavyaEx3CuWP\NavyaEx3CuWP\obj\Debug\NavyaEx3CuWP.dll
+c:\users\user13\documents\visual studio 2010\Projects\NavyaEx3CuWP\NavyaEx3CuWP\obj\Debug\NavyaEx3CuWP.pdb

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="cd4847e8-fa2b-4cd6-9d1a-26fce79ce3bd" Scope="Web" Title="RibbonButtonEx Feature1">
+  <ElementManifests>
+    <ElementManifest Location="EmptyElement1\Elements.xml" />
+  </ElementManifests>
+</Feature>

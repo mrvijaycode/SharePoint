@@ -1,0 +1,6 @@
+D:\Repository\4Sync\Code\RibbonButtonEx\RibbonButtonEx\bin\Debug\RibbonButtonEx.dll
+D:\Repository\4Sync\Code\RibbonButtonEx\RibbonButtonEx\bin\Debug\RibbonButtonEx.pdb
+D:\Repository\4Sync\Code\RibbonButtonEx\RibbonButtonEx\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+D:\Repository\4Sync\Code\RibbonButtonEx\RibbonButtonEx\obj\Debug\ResolveAssemblyReference.cache
+D:\Repository\4Sync\Code\RibbonButtonEx\RibbonButtonEx\obj\Debug\RibbonButtonEx.dll
+D:\Repository\4Sync\Code\RibbonButtonEx\RibbonButtonEx\obj\Debug\RibbonButtonEx.pdb

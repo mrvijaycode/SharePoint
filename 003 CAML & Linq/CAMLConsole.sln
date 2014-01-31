@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAMLConsole", "CAMLConsole\CAMLConsole.csproj", "{878DE8DB-CDC2-4D7E-BFC5-8EF1F8880CDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{878DE8DB-CDC2-4D7E-BFC5-8EF1F8880CDA}.Debug|x86.ActiveCfg = Debug|x86
+		{878DE8DB-CDC2-4D7E-BFC5-8EF1F8880CDA}.Debug|x86.Build.0 = Debug|x86
+		{878DE8DB-CDC2-4D7E-BFC5-8EF1F8880CDA}.Release|x86.ActiveCfg = Release|x86
+		{878DE8DB-CDC2-4D7E-BFC5-8EF1F8880CDA}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

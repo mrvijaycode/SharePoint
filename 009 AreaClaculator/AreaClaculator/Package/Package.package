@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="3afd224c-6dae-4c16-ab02-804075913dd1" solutionId="3afd224c-6dae-4c16-ab02-804075913dd1" resetWebServer="false" name="AreaClaculator" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="3098d32d-446f-4bf0-bc31-00cc69a9f58f" />
+  </features>
+</package>

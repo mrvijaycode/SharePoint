@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\AreaClaculator\AreaClaculator\bin\Debug\AreaClaculator.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\AreaClaculator\AreaClaculator\bin\Debug\AreaClaculator.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\AreaClaculator\AreaClaculator\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\AreaClaculator\AreaClaculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\AreaClaculator\AreaClaculator\obj\Debug\AreaClaculator.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\AreaClaculator\AreaClaculator\obj\Debug\AreaClaculator.pdb
